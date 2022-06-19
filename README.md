@@ -78,6 +78,15 @@ relacionadas à computação e também disciplinas de formação geral (acredita
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
 os cursos presentes na grade seguem os seguintes critérios:
 
+**Bases para a criação do Currículo (Guidelines):**
+
+Levamos em consideração (apesar de não ter implementado completamente como sugerido) os seguintes documentos sobre a formação de um currículo
+em Ciência da Computação. Continuaremos constantemente trabalhando e aceitando sugestões de melhorias para cada vez mais oferecer uma experiência
+melhor para todos os estudantes que seguem nosso guia aberto de conteúdos.
+
+- [Referenciais de Formacao para Cursos de Graduacao em Computacao - Outubro 2017 (SBC)](https://www.sbc.org.br/documentos-da-sbc/summary/131-curriculos-de-referencia/1165-referenciais-de-formacao-para-cursos-de-graduacao-em-computacao-outubro-2017)
+- [Diretrizes Curriculates para Cursos de Computação (UFRGS)](https://www.inf.ufrgs.br/site/wp-content/uploads/2016/05/diretrizes_curriculares.pdf)
+
 **Os Cursos devem**:
 - Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
 - Possuir método pedagógico
@@ -126,7 +135,12 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Antes de começar
 
-Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação pode
+
+We used as reference for the main Guidelines when we're developing the curriculum the Reference Curriculum for Computer Related Graduation Courses (reference year 2017) from SBC (portuguese acronym for Brazillian Computer Society) as also analyzed the Curriculum from USP, UFBA and UCS in the process.
+
+We didn't implement all them as it is since most of them also include a lot of non specific CS themes as Psychology and
+m ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
 
 ## Técnicas de estudo, organização e aprendizagem
 
