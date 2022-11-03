@@ -35,8 +35,8 @@ SOFTWARE.
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
-  <a href="https://github.com/Universidade-Livre/ciencia-da-computacao">
-	<img alt="Universidade Brasileira Livre - Ciência da Computação" width="150" src="https://raw.githubusercontent.com/Universidade-Livre/imagens/main/png/badge.png">
+  <a href="https://github.com/ossu/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
 <p align="center">
@@ -105,8 +105,7 @@ Quando um curso de qualidade for recomendado, mas não se encaixar na grade vamo
 - **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
 - **Tópicos Finais**: Conteúdos que utilizam-se de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
-**Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha que ainda vamos disponibilizar
-](#) para estimar o tempo de curso que ainda falta para a conclusão. 
+**Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha](https://docs.google.com/spreadsheets/d/1hcfneW8iGtDKHrCdO_L2HUAGISBd8NxyCxx8naiQhHI/edit?usp=sharing) para estimar o tempo de curso que ainda falta para a conclusão. 
 
 **Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
@@ -135,12 +134,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Antes de começar
 
-Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação pode
-
-We used as reference for the main Guidelines when we're developing the curriculum the Reference Curriculum for Computer Related Graduation Courses (reference year 2017) from SBC (portuguese acronym for Brazillian Computer Society) as also analyzed the Curriculum from USP, UFBA and UCS in the process.
-
-We didn't implement all them as it is since most of them also include a lot of non specific CS themes as Psychology and
-m ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
 
 ## Técnicas de estudo, organização e aprendizagem
 
@@ -191,9 +185,9 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | -
-[Estatística e Probabilidade](https://integra.univesp.br/courses/1624) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação | Ross, Sheldon. Probabilidade: Um Curso Moderno com Aplicações.
+[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação | Ross, Sheldon. Probabilidade: Um Curso Moderno com Aplicações.
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais | A. S. Tanenbaum. Organizacao Estruturada de Computadores
-[Noções de Inglês](https://integra.univesp.br/courses/3032) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | - | -
+[Noções de Inglês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | - | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | - | -
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I | -
 
@@ -202,7 +196,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 :-- | :--: | :--: | :--: | :--: | :--:
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II | Deitel, Paul e Deitel, Harvey. Java: como programar.
 [Bancos de Dados](https://cursos.univesp.br/courses/3129) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | -
-[Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I | Tanenbaum, Andrews S. Organização Estruturada de Computadores.
+[Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I | Tanenbaum, Andrews S. Organização Estruturada de Computadores.
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais. | Fundamentos Matemáticos para Computação | Strang, Gilbert. Álgebra linear e suas aplicações
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - | -
 
@@ -210,7 +204,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I  | Deitel, Paul e Deitel, Harvey. Java: como programar.
-[Cálculo I](https://integra.univesp.br/courses/1907) | 4 Semanas | 3 horas/semana | Funções; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação | Steward, James. Cálculo, Volume 1.
+[Cálculo I](https://www.youtube.com/playlist?list=PLxI8Can9yAHd2Tjqa68gx_2R5YOkzOLgS) | 4 Semanas | 3 horas/semana | Funções; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação | Steward, James. Cálculo, Volume 1.
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | Fundamentos Matemáticos para Computação | Bondy e Murty. Graph Theory with Applications.
 [Sistemas Operacionais](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II | Tanenbaum, Andrew S. Sistemas Operacionais Modernos.
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados | -
@@ -218,9 +212,9 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 ### Aprofundamento Técnico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
-[Interfaces Humano-Computador](https://integra.univesp.br/courses/1603) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | -
+[Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | -
 [Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos, Programação Orientada a Objetos I | CORMEN, T., LEISERSON, C., RIVEST, R., e STEIN, C. Algoritmos - Teoria e Prática.
-[Redes de Computadores](https://integra.univesp.br/courses/2713) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | - | KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-down
+[Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | - | KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-down
 [Criação de Startups](https://pt.coursera.org/learn/criacao-startups) | 2 Semanas | 3 horas/semana | Canvas; MVP; Modelo de Negócio; Pitch. | - | -
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | Desenvolvimento Ágil com Java Avançado | -
 
@@ -230,7 +224,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados | -
 [Exercícios de Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk) | - | - | Exercícios do curso. | Estrutura de Dados | -
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos | Aho, A.V., Sethi, R. e Ullman, J.D. Compiladores – Princípios, Técnicas e Ferramentas.
-[Gerência da Qualidade de Software](https://integra.univesp.br/courses/1602) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | - | -
+[Gerência da Qualidade de Software](https://www.youtube.com/playlist?list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | - | -
 [Fundamentos da Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | Estrutura de Dados, Estatística e Probabilidade | Russel, S. e Norvig, P. Inteligência Artificial.
 [Metodologia da Pesquisa em Computação](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__) | 8 Semanas | 5 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | - | -
 
@@ -244,6 +238,8 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
 [Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md) | 25+ semanas | Média de  4 h/semana | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
+[CyberSecurity](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/cybersecurity.md) | 20+ semanas | Média de  4 h/semana | `segurança`, `pentest`, `criptografia`, `autenticação`, `análise`, `estatística`, `e mais`
+[DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) | 30+ semanas | Média de  2 h/semana | `devops`, `infraestrutura`, `container`, `docker`, `kubernates`, `CI/CD`, `e mais`
 
 ## Como demonstrar o meu progresso?
 
